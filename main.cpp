@@ -30,7 +30,7 @@ using namespace std;
 
 void run_it(int argc, char* argv[])
 {
-    string runline = "KSP.exe -force-opengl ";
+    string runline = "KSP_x64.exe -force-opengl ";
 
     if (argc > 0)
     {
