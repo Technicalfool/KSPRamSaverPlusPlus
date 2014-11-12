@@ -6,7 +6,7 @@ Oh dear. Oh very much oh dear.
 INSTRUCTIONS:
 =============
 
-Copy the compiled executable into your KSP directory. Run it instead of KSP.exe.
+Copy the compiled executable into your KSP directory. Run it instead of KSP_x64.exe.
 
 LICENSE
 =======
