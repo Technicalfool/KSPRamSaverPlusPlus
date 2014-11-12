@@ -3,6 +3,14 @@ KSPRamSaverPlusPlus
 
 Oh dear. Oh very much oh dear.
 
+INSTRUCTIONS:
+=============
+
+Copy the compiled executable into your KSP directory. Run it instead of KSP.exe.
+
+LICENSE
+=======
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Marc "Technicalfool" Gale
