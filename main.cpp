@@ -30,13 +30,14 @@ using namespace std;
 
 void run_it(int argc, char* argv[])
 {
-    string runline = "KSP_x64.exe -force-opengl ";
+    string runline = "KSP.exe -force-opengl ";
 
     if (argc > 0)
     {
         for(int i=1; i<argc; i++)
         {
             runline.append(string(argv[i]));
+            runline.append(string(" "));
         }
     };
     cout << "Running command: " << runline << endl;
